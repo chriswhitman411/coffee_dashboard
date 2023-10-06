@@ -2,6 +2,10 @@
 
 In this project, I take data from a fictional coffee company and use it to create a dashboard for easy visualization of the data.
 
+To view the dashboard, download by clicking on the CoffeeDashboardPortfolio.xlsx file and then clicking on "View raw".
+
+To view the raw data before cleaning/manipulation, do the same with the coffeeOrders, coffeeCustomers, and coffeeProducts files.
+
 The raw data comes from three Excel files:
 - coffeeOrders
 - coffeeCustomers
@@ -23,7 +27,3 @@ To complete this task, I took the following steps:
 2. Created pivot charts for each pivot table.
 3. Created splicers for the data that I would like to be able to filter.
 4. Used the built-in shapes and styles for the design of the dashboard.
-
-To view the dashboard, download by clicking on the CoffeeDashboardPortfolio.xlsx file and then clicking on "View raw".
-
-To view the raw data before cleaning/manipulation, do the same with the coffeeOrders, coffeeCustomers, and coffeeProducts files.
