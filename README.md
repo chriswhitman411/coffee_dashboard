@@ -24,6 +24,6 @@ To complete this task, I took the following steps:
 3. Created splicers for the data that I would like to be able to filter.
 4. Used the built-in shapes and styles for the design of the dashboard.
 
-To view the dashboard, download by clicking on the file name and then clicking on "View RAW".
+To view the dashboard, download by clicking on the CoffeeDashboardPortfolio.xlsx file and then clicking on "View RAW".
 
 To view the raw data before cleaning/manipulation, do the same with the coffeeOrders, coffeeCustomers, and coffeeProducts files.
